@@ -6,7 +6,7 @@ Node.js wrapper around traceroute process to get coordinates of received hops
 
 ## Install
 
-  sudo npm install --save node-icmp-traceroute
+  npm install --save node-icmp-traceroute
 
 ## Usage Example
 

@@ -1,0 +1,25 @@
+{
+  "name": "node-ICMPTraceroute",
+  "version": "1.0.0",
+  "description": "Linux traceroute command implemented in node js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chandrajob365/node-ICMPTraceroute.git"
+  },
+  "keywords": [
+    "node",
+    "socket",
+    "traceroute",
+    "raw-socket",
+    "networking"
+  ],
+  "author": "chandrajob365@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chandrajob365/node-ICMPTraceroute/issues"
+  },
+  "homepage": "https://github.com/chandrajob365/node-ICMPTraceroute#readme",
+  "dependencies": {
+    "raw-socket": "^1.5.1"
+  }
+}

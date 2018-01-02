@@ -28,3 +28,4 @@ ping.createSession().traceRoute('google.com', (err, data) => {
 ```
 # Possible enhancements
 - Support for IP address as input to traceroute
+- IPv6 support

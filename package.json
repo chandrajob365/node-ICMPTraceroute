@@ -1,6 +1,6 @@
 {
   "name": "node-icmp-traceroute",
-  "version": "1.0.0",
+  "version": "1.0.5",
   "description": "Linux traceroute command implemented in node js to get coords of each URL",
   "main": "traceRoute.js",
   "repository": {
